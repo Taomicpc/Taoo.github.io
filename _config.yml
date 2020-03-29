@@ -17,7 +17,7 @@ favicon: favicon.ico
 
 repository: Taomicpc/Taoo.github.io   #在github上托管的blog仓库地址
 github_url: https://github.com/Taomicpc   #个人的github首页地址
-url: https://github.com/Taomicpc/Taoo.github.io   #生成的blog地址。
+url: https://Taoo.github.io   #生成的blog地址。
 enforce_ssl: ityouknow.com
 
 ## Gem
