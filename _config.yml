@@ -15,9 +15,9 @@ keywords: ityouknow,纯洁的微笑,Spring,Spring Boot,Spring Cloud,MongoDB,Jvm,
 encoding: "utf-8"
 favicon: favicon.ico 
 
-repository: ityouknow/ityouknow.github.io
-github_url: https://github.com/ityouknow
-url: http://www.ityouknow.com
+repository: Taomicpc/Taoo.github.io   #在github上托管的blog仓库地址
+github_url: https://github.com/Taomicpc   #个人的github首页地址
+url: https://github.com/Taomicpc/Taoo.github.io   #生成的blog地址。
 enforce_ssl: ityouknow.com
 
 ## Gem
